@@ -1,4 +1,4 @@
-# Friday Night Funkin': Psychic Engine :)))
+# Friday Night Funkin': Psychic Engine
 ### funkin'... in HTML5!
 
 just a HTML5 port of various mods combined into one site, made cuz I'm bored, and school is BORING!!!!! Mods are used WITHOUT permission, as this is a small project just for my friends and I, however the least I'll do is add credits so i'm not COMPLETELY a little evil man
