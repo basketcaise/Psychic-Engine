@@ -1,8 +1,7 @@
 # Fridy nite funky: Psychic Engine :)))
 <h4>A HTML5 port of a certain engine for a certain game with certain mods for that certain game</h4>
 
-Basically just a HTML5 port of various mods combined into one site, made because I'm bored
-Don't got any mods yet, BUT I'm gonna add some soon :)
+Basically just a HTML5 port of various mods combined into one site, made because I'm bored. Don't got any mods yet, BUT I'm gonna add some soon :)
 
 ## the real Friday Night Funkin'
 (i stole this from kade engine's readme.md lololololol)
