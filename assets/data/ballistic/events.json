@@ -1,0 +1,39 @@
+{
+	"song": {
+		"speed": 3.2,
+		"stage": "alley-balls",
+		"player1": "bf",
+		"player2": "whitbonkers",
+		"player3": null,
+		"events": [
+			[
+				93491.6864608077,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf-car"
+					]
+				]
+			],
+			[
+				102897.862232779,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf_but_not_juicy_enough",
+		"bpm": 210.5,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "ballistic"
+	}
+}
