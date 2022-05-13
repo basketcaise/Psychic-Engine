@@ -10,7 +10,7 @@ This only works on devices with a external keyboard, such as a desktop/laptop co
 ___
 
 #### Special credits epic
-- [Starmapo for a lotta code for fixin HTML5 properly working](https://github.com/Starmapo/FNF-PsychEngine-Extra/issues/11#issuecomment-1093299756)
+- [Starmapo for a lotta code for fixin HTML5](https://github.com/Starmapo/FNF-PsychEngine-Extra/issues/11#issuecomment-1093299756)
 
 ## The Real Funkin' Game
 *(i stole this from kade engine's read me lololol)*
